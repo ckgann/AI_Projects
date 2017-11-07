@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome Conrad's AI/ML Udacity Projects
 
 You can use the [editor on GitHub](https://github.com/ckgann/AI_Projects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# TEST Header 1
+## TEST Header 2
+### TEST Header 3
 
 - Bulleted
 - List
