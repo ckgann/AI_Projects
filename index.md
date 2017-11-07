@@ -1,5 +1,8 @@
 ## Welcome Conrad's AI/ML Udacity Projects
 
+This page links to the 15 Udacity Machine Learning / Artificial Intelligence Projects I have completed as part of my Udacity Nanodegree Education.
+
+
 You can use the [editor on GitHub](https://github.com/ckgann/AI_Projects/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
